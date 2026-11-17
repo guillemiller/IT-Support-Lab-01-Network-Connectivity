@@ -1,3 +1,8 @@
+# IT Support Lab 01 – Network Connectivity Troubleshooting
+
+## Overview
+
+This project documents a simulated IT support incident involving a Windows workstation that lost network connectivity after being moved to a different desk.
 
 The goal was to identify the root cause, restore Ethernet connectivity, obtain a valid network configuration and verify communication with the default gateway.
 
